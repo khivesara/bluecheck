@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
----
 
+---
 A simple and elegant theme for Jekyll and GitHub Pages.
 
 ### Features:
@@ -42,4 +42,16 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jekyll-athena
+    $ gem install jekyll-athena\
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:blue;">
+      <h1>Products</h1>
+      <p>We have developed more than 10 products till now.</p>
+   </body>
+</html>
+
