@@ -2,9 +2,11 @@
 layout: category_index
 title: Writing
 permalink: /writing/
-category_name: writing
+category_name: writingcontent
+
 ---
 
+![2020-04-05-426025.png](https://khivesara.github.io/bluecheck/assets/2020-04-05-426025.png)
 <!--
 
 Set the front matter:
