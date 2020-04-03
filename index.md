@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: VirusTheme
+title: Virus Theme
 
 ---
 A simple and elegant theme for Virus
